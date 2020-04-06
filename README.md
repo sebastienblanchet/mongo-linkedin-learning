@@ -14,9 +14,11 @@ brew services start mongodb-community
 
 Starting mongod on macOS Catalina:
 ```bash
+# start server in one terminal
 mongod --dbpath=/Users/{userName}/data/db
+# in another
 cd src
-npm run db
+npm start
 ```
 
 ## Resources
