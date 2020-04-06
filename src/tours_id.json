@@ -1,6 +1,6 @@
 [{
       "tourBlurb": "Big Sur is big country. The Big Sur Retreat takes you to the most majestic part of the Pacific Coast and show you the secret trails.",
-      "tourName": "Big Sur Retreat",
+      "_id": "Big Sur Retreat",
       "tourPackage": "Backpack Cal",
       "tourBullets": "\"Accommodations at the historic Big Sur River Inn, Privately guided hikes through any of the 5 surrounding national parks, Picnic lunches prepared by the River Inn kitchen, Complimentary country breakfast, Admission to the Henry Miller Library and the Point Reyes Lighthouse \"",
       "tourRegion": "Central Coast",
@@ -17,7 +17,7 @@
    {
       "tourPackage": "Backpack Cal",
       "tourBlurb": "\"Follow in the steps on John Muir, famous naturalist and founder of the Sierra Club, and walk the same trails he helped blaze in and around Yosemite National Park.\"",
-      "tourName": "In the Steps of John Muir",
+      "_id": "Kirsten's Fabulous Tour",
       "tourLength": 3,
       "tourTags": ["backpacking", "john muir", "hiking", "sierra club"],
       "tourDescription": "This tour is not for the faint of heart though. This is a true backpacker's adventure, 37 miles in 3 days. Along the way, you'll bear witness to the classic monuments of Yosemite, such as Vernal Falls, Nevada Falls, Half Dome, Cathedral Peak, Tuolumne Meadows and Mt. Lyell. At Nevada Falls, the trail becomes narrow and from then on, you'll be privy to a \"\"secret\"\" Yosemite, including a rarely seen face of Half Dome. John Muir Trail tickets are required- and hard to come by- but Explore California has you covered. We'll also provide a checklist so that you come prepared with the right equipment and a seasoned guide for your tour.\"",
@@ -33,7 +33,7 @@
    {
       "tourPackage": "Backpack Cal",
       "tourBlurb": "Hot stuff? Need more of a challenge? Take this tour to the hottest place in North America: Death Valley.",
-      "tourName": "The Death Valley Survivor's Trek",
+      "_id": "The Death Valley Survivor's Trek",
       "tourDescription": "This overnighter is no picnic though. Our guide will lead you on a 12 mile, off-trail hike down Death Valley Wash and into the backcountry for an overnight, hard terrain camping. Luckily, 12 miles takes you out of range of almost any city lights, something that draws thousands of star gazers to Death Valley ever year. If you can survive the 12 miles back, take advantage of the location to stop in at Scotty's Castle, a genuine castle built by the eccentric and wealthy Walter Scott for his wife. This tour will make you truly appreciate modern luxuries.\"",
       "tourBullets": "\"24-mile roundtrip hike through the Death Valley Wash, Backcountry camping, Fireside dinner and trail snacks provided, Stargazing and local wildlife highlighted, Tour  mysterious Scotty's Castle\"",
       "tourRegion": "Inland Empire",
@@ -59,7 +59,7 @@
          "organizerName": "John Smith",
          "organizerPhone": "555-555-5555"
       },
-      "tourName": "The Mt. Whitney Climbers Tour",
+      "_id": "The Mt. Whitney Climbers Tour",
       "tourBlurb": "\"Climb to the sky! The Mt. Whitney Climbers Tour takes you to the top of this 14,000 ft. of mountain in 4 days- our longest and most strenuous backpacking tour.\""
    },
    {
@@ -68,7 +68,7 @@
       "tourDifficulty": "Easy",
       "tourLength": 1,
       "tourPrice": 150,
-      "tourName": "Channel Islands Excursion",
+      "_id": "Channel Islands Excursion",
       "tourOrganizer": {
          "organizerName": "John Smith",
          "organizerPhone": "555-555-5555"
@@ -86,7 +86,7 @@
       "tourLength": 1,
       "tourTags": ["relaxation", "massage"],
       "tourBlurb": "\"Trying to pack some serious relaxation into a short timeframe? Try our Day Spa Package, a full 8 hour immersive experience in seductive the Ojai Valley that will ease away months' worth of tension.\"",
-      "tourName": "Day Spa Package",
+      "_id": "Day Spa Package",
       "tourOrganizer": {
          "organizerName": "Amber Fineway",
          "organizerPhone": "555-555-5555"
@@ -106,7 +106,7 @@
          "organizerPhone": "555-555-5555"
       },
       "tourBlurb": "\"The Restoration Package is a 2 day balm for the tired soul. Choose from among three destinations that uniquely combine world-class spa services and attention to the spirit, in locations of unparalleled natural beauty.\"",
-      "tourName": "Restoration Package",
+      "_id": "Restoration Package",
       "tourDescription": "\"California is no stranger to luxury (think Rodeo Drive) but we also offer a myriad of ways to not only pamper the body, but the spirit as well. Choose from among 3 options designed to help you relax and restore in the Restoration Package. Reconnect with nature and with yourself at the San Juan Spa, our Orange County Oasis; go backwoods, literally, on our Yosemite Yoga Retreat; or take comfort in our Napa Valley Validation spa sessions. Perfect for couples, the tireless mother or father you want to thank, or just yourself, this tour will immerse you in serenity.\"",
       "tourPackage": "California Calm"
    },
@@ -117,7 +117,7 @@
       "tourLength": 1,
       "tourPrice": 225,
       "tourTags": ["Huntington Library", "gardens", "art"],
-      "tourName": "Huntington Library and Pasadena Retreat Tour",
+      "_id": "Huntington Library and Pasadena Retreat Tour",
       "tourOrganizer": {
          "organizerName": "Amber Fineway",
          "organizerPhone": "555-555-5555"
@@ -127,7 +127,7 @@
       "tourPackage": "California Calm"
    },
    {
-      "tourName": "Avila Beach Hot springs",
+      "_id": "Avila Beach Hot springs",
       "tourBlurb": "\"Spend a weekend in a rustic log cabin, within walking distance of the historic Avila Hot Springs and minutes from the beach.\"",
       "tourPackage": "California Hot springs",
       "tourPrice": 1000,
@@ -155,12 +155,12 @@
          "organizerName": "Martin Jones",
          "organizerPhone": "555-555-5555"
       },
-      "tourName": "Matilija Hot springs",
+      "_id": "Matilija Hot springs",
       "tourBlurb": "\"Visit the Matilija Sanctuary, located above the tranquil Ojai Valley, and indulge in the waters that flow from the natural sulfur springs.\"",
       "": ""
    },
    {
-      "tourName": "Paso Robles Artesian Spring",
+      "_id": "Paso Robles Artesian Spring",
       "tourBlurb": "\"Paso Robles is traditionally know as wine country, but there's something else this region has to offer: incredible thermal hot springs. This package is our most plush hot springs tour, where you can while away the day in the luxurious surroundings at the River Oaks Spa and choose from one of their many specialized spa treatments.\"",
       "tourRegion": "Central Coast",
       "tourBullets": "\"One night's stay at the Orchard Hill Bed and Breakfast, Day pass to the River Oaks Hot Springs Spa, Voucher for one massage or skin treatment at the spa, Belgian style breakfast\"",
@@ -177,7 +177,7 @@
    },
    {
       "tourBlurb": "\"This year only, we�re also offering a special package that allows serious cyclists to follow behind a competitor in the AMGEN bike race, a race that mimics the conditions in the Tour de France. Spots are limited so reserve your seat now!\"",
-      "tourName": "Amgen Tour of California Special",
+      "_id": "Amgen Tour of California Special",
       "tourRegion": "Northern California",
       "tourDifficulty": "Difficult",
       "tourBullets": "\"Follow the main group of rider's for two legs of Amgen's Tour of California, Ride alongside Olympic athletes Tour de France competitors and professional cyclists, Enjoy car-free California roadways, Pace led by experienced and well trained professional cyclists, Lodging and meals included\"",
@@ -194,7 +194,7 @@
    {
       "tourPackage": "Cycle California",
       "tourDescription": "\"This tour takes you along the best spots on the California coastline, including overnight stops in Carmel, Big Sur, San Luis Obispo, Lompoc and Santa Barbara. Cyclists of all abilities can join this scenic tour of the Pacific coast. Side trips include the famous 17 Mile Drive in cypress studded Carmel, and visits to wineries around Paso Robles and Solvang, many featured in the movie Sideways. If you tire along the way, take a break in one of our luxury equipped companion cars, which follows riders along every leg of the trip. Dine with the group or request private reservations at any one of the fining dining spots our reservationists recommend. Private accommodations are provided for the overnight stays. Breaks before and after lunch provide plenty of time for sightseeing and shopping.\"",
-      "tourName": "Monterey to Santa Barbara Tour",
+      "_id": "Monterey to Santa Barbara Tour",
       "tourBlurb": "\"Ditch the four wheel drive and hop on two, for this exploration of the Pacific coast with other bicycling enthusiasts. Overnight stops take you from Carmel to Lompoc, so you can take in everything from rolling vineyards to the Channel Islands.\"",
       "tourBullets": "\"Cycle from Monterey to Santa Barbara, Bike 17 Mile Drive, Stop in at Central Coast wineries, Spectacular views of the Pacific coastline, Accompanied by two companion cars\"",
       "tourTags": ["cycling", "bicycling"],
@@ -209,7 +209,7 @@
    },
    {
       "tourPackage": "Cycle California",
-      "tourName": "Cycle California: My Way",
+      "_id": "Cycle California: My Way",
       "tourBlurb": "\"Cycle California your way! Choose a route, length and distance that fits your skill level, take advantage of our partnership with the AMGEN tour, and a group of riders with common interests. We tailor this package for you, down to the mile.\"",
       "tourDescription": "\"Choose a route, length, and distance that fits your skill level, Ride behind the Amgen Tour, See sites from San Diego to Monterey, Travel with a dedicated guide and road crew\"",
       "tourRegion": "Varies",
@@ -223,7 +223,7 @@
       "tourBullets": "Choose your level of experience, desired distance, and location and we'll give you a call back to plot your route and confirm your reservation.\""
    },
    {
-      "tourName": "2 Days Adrift the Salton Sea",
+      "_id": "2 Days Adrift the Salton Sea",
       "tourBlurb": "\"The Salton Sea, 25% saltier than the Pacific, has been a tourist destination since the 1920s. See what attracts people to this desert oasis.\"",
       "tourDifficulty": "Easy",
       "tourRegion": "Southern California",
@@ -246,7 +246,7 @@
       "tourPrice": 200,
       "tourTags": ["motorcycling", "Malibu", "Mojave Desert"],
       "tourBlurb": "\"Join us for one of Explore California's exclusive \"\"motorcades,\"\" Mojave to Malibu - a motorcycle tour from the outskirts of the Mojave desert down to the Malibu coast.\"",
-      "tourName": "Mojave to Malibu",
+      "_id": "Mojave to Malibu",
       "tourOrganizer": {
          "organizerName": "Jack Kerouak",
          "organizerPhone": "555-555-5555"
@@ -262,7 +262,7 @@
       "tourLength": 3,
       "tourBlurb": "Los Angeles for the young (and young at heart!) Go beyond the concrete jungle and discover just what a playground L.A. can be. ",
       "tourTags": ["zoo", "aquarium", "kids", "Disneyland"],
-      "tourName": "Kids L.A. Tour",
+      "_id": "Kids L.A. Tour",
       "tourOrganizer": {
          "organizerName": "Mickey Mouse",
          "organizerPhone": "555-555-5555"
@@ -283,12 +283,12 @@
       },
       "tourTags": ["boating", "Channel Islands", "whale watching", "kids"],
       "tourBullets": "\"Ferry from Ventura to the Channel Islands, Admission to the state parks, Kid-friendly organic picnic, Stoll through the Catalina Botanical Gardens, Ferry to Santa Barbara and tour of the Santa Barbara Mission\"",
-      "tourName": "Islands of the Blue Dolphins Tour",
+      "_id": "Islands of the Blue Dolphins Tour",
       "tourBlurb": "\"Dive into the pages of Scot O'Dell's classic children's novel and visit the Channel Islands, namesake of the Island of the Blue Dolphins. The Channel Islands are a natural playground for kids, and offer an unique and fascinating look into the history of California. \"",
       "": ""
    },
    {
-      "tourName": "Eco-Tour",
+      "_id": "Eco-Tour",
       "tourBlurb": "\"Want to pass on a healthy environment to the next generation? Want to teach them how to preserve it too? Take the Explore California Eco-Tour and travel responsibly, along the way learning about both nature and nurturing.\"",
       "tourRegion": "Southern California",
       "tourDifficulty": "Medium",
@@ -308,7 +308,7 @@
       "tourBullets": "\"Visit any one of 15 of California's best state parks, Camping, Hiking, Horseback riding, Boating, Bird watching, RV rentals available\"",
       "tourLength": 3,
       "tourPrice": 600,
-      "tourName": "Endangered Species Expedition",
+      "_id": "Endangered Species Expedition",
       "tourTags": ["state parks"],
       "tourBlurb": "\"California boasts the largest number of unique species in the continental United States, which makes a �natural� destination for nature lovers. For those who want to get a glimpse of California�s at-risk flora and fauna, and our efforts to preserve it, take the Endangered Species Expedition.\"",
       "tourOrganizer": {
@@ -323,7 +323,7 @@
       "tourDifficulty": "Medium",
       "tourPrice": 500,
       "tourLength": 2,
-      "tourName": "Fossil Tour",
+      "_id": "Fossil Tour",
       "tourTags": ["archaeology", "Mojave Desert", "La Brea Tar Pits"],
       "tourBlurb": "The Fossil Tour to the Mojave Desert and La Brea Tar Pits is ideal for budding archeologists.",
       "tourOrganizer": {
@@ -339,7 +339,7 @@
       "tourLength": 4,
       "tourPrice": 1500,
       "tourBlurb": "\"Coastal Experience takes you to the famous Monterey Aquarium and to the enchanted Channel Islands, which hosts such unique and endangered species as the Santa Cruz fox. \"",
-      "tourName": "Coastal Experience",
+      "_id": "Coastal Experience",
       "tourOrganizer": {
          "organizerName": "Ishmael Fisher",
          "organizerPhone": "555-555-5555"
@@ -361,11 +361,11 @@
          "organizerPhone": "555-555-5555"
       },
       "tourLength": 4,
-      "tourName": "Mammoth Mountain Adventure",
+      "_id": "Mammoth Mountain Adventure",
       "tourBlurb": "\"With over 400 inches of annual snowfall, Mammoth Mountain turns winter into a 3 season event! Learn to ski, snowboard or even snowshoe across the thousands of acres of this winter wonderland.\""
    },
    {
-      "tourName": "Mountain High Lift-off",
+      "_id": "Mountain High Lift-off",
       "tourBlurb": "\"Mountain High was established in 1929, but continues to be among the top five mountain resorts in the state. Experience what draws hundreds of thousands of visitors to this snow destination each season. The Mountain High Lift-off is the weekender's ski spectacular, perfect for couples who need a retreat.\"",
       "tourPrice": 800,
       "tourOrganizer": {
@@ -388,7 +388,7 @@
       "tourDifficulty": "Difficult",
       "tourBlurb": "\"Though technically shared with Nevada, we like to call Lake Tahoe our own. Unparalleled natural beauty, combined with world class trails make it the ultimate winter resort. Ski Lake Tahoe is ideal for serious skiers and snowboarders, but also offers fun for the whole family.\"",
       "tourTags": ["skiing", "Lake Tahoe"],
-      "tourName": "Ski Lake Tahoe",
+      "_id": "Ski Lake Tahoe",
       "tourOrganizer": {
          "organizerName": "Tony Hawkins",
          "organizerPhone": "555-555-5555"
@@ -399,7 +399,7 @@
    {
       "tourPackage": "Taste of California",
       "tourDescription": "\"Ojai Olive is a small, family-run olive orchard, which has been pressing their own special, fragrant olive oil for over 10 years. Immerse yourself in this ancient practice, which is both an art and an edible. The Ojai Olive tour offers begins outside with the history of the grove, an explanation of the olive varieties, their maturing process, the harvesting, a visit to the tree nursery, and more. They then take you inside the barn and explain the process of making the olive oil. Lastly, stop in the tasting room and find out how different curing and separation processes can result in such unique flavors: citrus, hints of pepper, grass. Take a break with a picnic lunch provided by Azu restaurant, makers of authentic Spanish style tapas with a California flair. Included are brioche with olive tapenade, featuring black and green olives from Ojai Olive and prepared by the chef especially for this tour.\"",
-      "tourName": "Olive Garden Tour",
+      "_id": "Olive Garden Tour",
       "tourBlurb": "\"Take a quiet day to explore the lush hills and countryside around beautiful Ojai, California. You'll visit Ojai Olive and tour the grounds, walk through the olive groves, and enjoy a once-in-a-lifetime lunch amongst the Ojai hills, featuring homemade tapas made from the olives on-site!\"",
       "tourPrice": 75,
       "tourLength": 1,
@@ -415,7 +415,7 @@
    {
       "tourPackage": "Taste of California",
       "tourDescription": "\"Oak Glen is a tiny hamlet located in the foothill of the San Bernadino Mountain, only 90 minutes from LA, but the climate makes it perfect for stone fruits, such as pears, peaches, and nectarines. However, the jewel of this town is the apple. You'll start the day at Riley's Apple Farm, where you can pick and press as many apples as you can carry. Take a hayride around the farm property and, a fun treat for kids, visit the barn animals. Feast on apple-wood smoked BBQ featuring tri-tip, ribs and chicken apple sausage. Lodging is provided at the quaint Craftin Hills Inn. The next day, it's a short backwoods drive to Ojai, CA, where you'll receive a private tour and picnic lunch at the Churchill Brenneis Orchard. Owners Jim Churchill and Lisa Brenneis are knowledgeable and warm, and you'll leave with a glow and the most delicious tiny tangerines you've ever tasted. Spend a restful night at the Lavender Inn in beautiful downtown Ojai before returning to the regular pace.\"",
-      "tourName": "Oranges & Apples Tour",
+      "_id": "Oranges & Apples Tour",
       "tourBlurb": "\"This three day tour is a taste of some of California's finest fruits. The first day features apple picking, a smoking barbeque and a hayride at a small farm in the historic Oak Glen, and the second take you'll drive to sample the only growing place in the world for pixie tangerines, Ojai, California.\"",
       "tourTags": ["apples", "hayride", "farming"],
       "tourRegion": "Southern California",
@@ -431,7 +431,7 @@
    {
       "tourPackage": "Taste of California",
       "tourDescription": "\"The Hot Salsa Tour is scheduled around the preeminent salsa event in the country, the annual Oxnard Salsa Festival. Enjoy spicy food, hot music and Oxnard�s cool ocean breezes in this two-day celebration of everything salsa- the food, the music and the dance. Enjoy salsa tasting from dozens of competitors- or enter your own concoction in the amateur competition. Flavors range from fresh & fruity, hot & smoky, sweet & spicy. Shop from dozens of boutique vendors. Take a seat, or shake a leg, in front of three stages, featuring everything from jazz bands to rockabilly. The second day you'll really be prepared to tango, after taking an evening salsa lesson from the Arthur Murray Dance Studio. If things get too hot, you can cool your heels at the luxurious Mandalay Beach Hotel and Resort and refresh yourself by the pool or take advantage of the private beach access. This yearly special is something no hot tamale wants to miss!\"",
-      "tourName": "Hot Salsa Tour",
+      "_id": "Hot Salsa Tour",
       "tourBlurb": "\"Spice addict? Southern California is know for its heat! Try this three day tour of some of the hottest chilies, salsas, and picantes north of the Mexican border.\"",
       "tourLength": 3,
       "tourTags": ["salsa", "dancing"],
@@ -446,7 +446,7 @@
    },
    {
       "tourBlurb": "\"Spend a week in wine country. Watch the evolution of a wine from harvesting to corking, in the heart of Sonoma Valley, considered the birthplace of wine-making in California. \"",
-      "tourName": "A Week of Wine",
+      "_id": "A Week of Wine",
       "tourLength": 5,
       "tourPrice": 850,
       "tourBullets": "\"Winery and vineyard tours, Nightly tastings, Country breakfast, Private lodging, Special dinner in Sausalito, Day tour of San Francisco, Hiking in Mt. Hood National Park\"",
