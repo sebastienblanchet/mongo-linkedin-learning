@@ -4,7 +4,7 @@
   "description": "Required libraries for the learning_mongodb class",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js",
     "db": "mongoimport --db learning_mongo --collection=tours --jsonArray --file=tours.json"
   },
   "repository": {
@@ -16,5 +16,8 @@
   "dependencies": {
     "hapi": "^16.1.0",
     "mongodb": "^2.2.22"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
   }
 }
